@@ -1,0 +1,1 @@
+export { default } from 'uux-a11y/components/ui-form-group';
